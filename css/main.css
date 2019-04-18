@@ -32,9 +32,11 @@ header {
 }
 
 header h1 {
-    color: #bbc085;
+    /*color: #bbc085;*/
+    color:  #9fc4c6;
     font-family:'Lora', serif;
     font-size: 30px;
+    font-variant: small-caps;
     padding: 65px 0 65px 25px;
 }
 
@@ -89,7 +91,8 @@ header h2 span {
 
 /*****WORK*****/
 #work {
-  background: #f9ceb7;
+  /*background: #f9ceb7;*/
+  background:  #9fc4c6;
   text-align: center;
 }
 
